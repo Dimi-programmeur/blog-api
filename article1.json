@@ -1,0 +1,6 @@
+{
+  "titre": "Introduction à Flask",
+  "contenu": "Flask est un framework Python léger et flexible pour créer des applications web. Il est idéal pour les projets de toutes tailles grâce à sa simplicité et sa modularité.",
+  "auteur": "Alice Martin",
+  "categorie": "Tutoriel"
+}

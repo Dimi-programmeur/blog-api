@@ -1,0 +1,6 @@
+{
+  "titre": "Comprendre SQLAlchemy",
+  "contenu": "SQLAlchemy est un ORM puissant pour Python. Il permet de mapper des classes Python à des tables de base de données et d'écrire des requêtes SQL de manière élégante. Cet article couvre les bases : définir des modèles, créer des relations, et effectuer des requêtes complexes.",
+  "auteur": "Robert Dupont",
+  "categorie": "Base de données"
+}

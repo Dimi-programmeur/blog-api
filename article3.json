@@ -1,0 +1,6 @@
+{
+  "titre": "Créer une API REST avec Flask",
+  "contenu": "Une API REST permet à différentes applications de communiquer entre elles. Flask facilite la création d'endpoints RESTful grâce à ses décorateurs et sa flexibilité. Nous verrons comment implémenter les opérations CRUD (Create, Read, Update, Delete) pour notre API d'articles.",
+  "auteur": "Fotso Merveille",
+  "categorie": "API"
+}
