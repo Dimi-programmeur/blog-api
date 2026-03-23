@@ -10,8 +10,8 @@ load_dotenv()
 db = SQLAlchemy()
 
 # Construction de l'URI MySQL
-DB_USER = os.getenv('DB_USER', 'blog_user')
-DB_PASSWORD = os.getenv('DB_PASSWORD', 'AZERTY')
+DB_USER = os.getenv('DB_USER', 'user_name')
+DB_PASSWORD = os.getenv('DB_PASSWORD', 'your_password')
 DB_HOST = os.getenv('DB_HOST', 'localhost')
 DB_PORT = os.getenv('DB_PORT', '3306')
 DB_NAME = os.getenv('DB_NAME', 'BLOG')
